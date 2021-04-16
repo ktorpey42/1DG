@@ -209,7 +209,7 @@ body {
 .content-wrapper h1 {
   text-align: center;
   font-size: 2rem;
-
+  text-shadow: 2px 2px 8px #111;
 }
 
 .portfolio-items-wrapper {
@@ -257,12 +257,12 @@ body {
 
 .img-text-wrapper .subtitle {
   transition: 1s;
-  font-weight: 600;
+  font-weight: 800;
   color: transparent;
 }
 
 .img-text-wrapper:hover .subtitle {
-  font-weight: 600;
+  font-weight: 800;
   color: white;
 }
 
